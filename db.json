@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstName": "Randel",
+      "age": 31,
+      "companyId": 1
+    },
+    {
+      "id": "99",
+      "firstName": "Gem",
+      "age": 25,
+      "companyId": 2
+    },
+    {
+      "id": "1",
+      "firstName": "Lexi",
+      "age": 1,
+      "companyId": 3
+    },
+    {
+      "id": "2",
+      "firstName": "Simon",
+      "age": 1,
+      "companyId": 3
+    },
+    {
+      "firstName": "lexi pwet",
+      "age": 1,
+      "id": "O_ssmgY"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Willis Towers Watson",
+      "description": "Service"
+    },
+    {
+      "id": "2",
+      "name": "Infor",
+      "description": "ERP"
+    },
+    {
+      "id": "3",
+      "name": "Pets",
+      "description": "Animals"
+    }
+  ]
+}
